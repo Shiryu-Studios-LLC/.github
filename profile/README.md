@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Shiryu Studios crest" width="160"/>
+</p>
+
 # Shiryu Studios LLC
 Shiryu Studios is a boutique product and cloud services studio shipping a cohesive suite of sites, tooling, APIs, and automation across marketing, customer portals, and operations.
 
